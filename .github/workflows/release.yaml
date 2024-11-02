@@ -9,9 +9,9 @@ on:
       - "[0-9]+.[0-9]+.[0-9]+rc[0-9]+"
 
 env:
-  PACKAGE_NAME: "<PACKAGE_NAME>"
-  OWNER: "<OWNER>"
-  TAP_NAME: "<TAP_NAME>"
+  PACKAGE_NAME: "campubtest"
+  OWNER: "ChristieMyburgh"
+#  TAP_NAME: "<TAP_NAME>"
 
 jobs:
   details:
