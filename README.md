@@ -1,2 +1,2 @@
-# cam_pub_test
+# campubtest
 repo to test automated package deployment
