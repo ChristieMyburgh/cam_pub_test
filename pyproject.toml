@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "campubtest"
-version = "0.0.1"
+version = "0.0.7"
 description = "pypi package"
 authors = ["ChristieMyburgh <c.myburgh@yahoo.com>"]
 license = "MIT"
